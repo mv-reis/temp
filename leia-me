@@ -5,3 +5,5 @@ Edição 123
 git push origin main -u
 
 Alteração Remota
+
+#git fetch
